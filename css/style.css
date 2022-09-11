@@ -1,0 +1,28 @@
+div {
+color: blueviolet;
+}
+.text {
+	color: gold;
+}
+#top {
+	color: blue;
+}
+div.text {
+	color: indigo;
+}
+.lesson.text {
+	color: red;
+}
+.text > p {
+	color: darkturquoise;
+}
+.text ~ p {
+	color: chartreuse;
+}
+* {
+	color: mediumorchid;
+}
+.lesson,
+.text {
+     color: indianred;
+}
